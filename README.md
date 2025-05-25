@@ -1,3 +1,6 @@
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/takuanporipori.indent2tree?color=blue&label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=takuanporipori.indent2tree)
+
+
 # indent2tree
 
 VSCode拡張機能「indent2tree」は、インデントで表現されたテキストをツリー構造に変換します。
