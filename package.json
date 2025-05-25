@@ -4,6 +4,7 @@
   "description": "Convert indented text to tree structure",
   "version": "0.0.1",
   "icon": "icon.png",
+  "publisher": "takuanporipori",
   "repository": {
     "type": "git",
     "url": "https://github.com/takuan423/inent2tree.git"
